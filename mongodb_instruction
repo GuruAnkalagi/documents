@@ -1,0 +1,17 @@
+
+1. Download the mongodb from the following website
+
+	https://www.filehorse.com/download-mongodb/33269/download/
+
+2. Then install the mongodb in your system by double click on .msi file
+3. Once after successfull installation, create new folder in D or E drive for data
+4. open the command prompt and type following cmd
+	 "C:\Program Files\MongoDB\Server\3.6\bin\mongod.exe" --dbpath d:\test\mongodb\data
+
+5. Then go to mongoDB foler where you install the mongo db like
+	"C:\Program Files\MongoDB\Server\3.6\bin\
+6. Then double click on mongo option, then it will open the mongo db command prompt there we can create,insert operation for mongo db
+
+7. to create db in mongo use dbname
+8. Then we can write code in node js to create collection or to insert delete, update values
+	
